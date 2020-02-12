@@ -4,5 +4,9 @@ A Visual Analytics project carried out using Python and Altair that explores the
 
 Note: This dataset contains earthquakes starting with magnitude 6 and over. The other visualizations are alternative desings that provide a different perspective.
 
+
+
+
+
 Data Source: https://data.humdata.org/dataset/catalog-of-earthquakes1970-2014
 
